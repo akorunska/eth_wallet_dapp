@@ -1,4 +1,4 @@
-# Post-Satoshi Era: module 7
+# Ethereum wallet DAPP
 
 This project is a simple wallet DApp with following features:
 * generating and importing mnemonic
